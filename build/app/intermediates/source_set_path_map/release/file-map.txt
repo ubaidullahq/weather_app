@@ -1,0 +1,14 @@
+com.example.front_end_dev_test_ubaidullah.app-jetified-window-java-1.0.0-beta04-0 C:\Users\UBAID ULLAH\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.front_end_dev_test_ubaidullah.app-core-1.6.0-1 C:\Users\UBAID ULLAH\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.example.front_end_dev_test_ubaidullah.app-jetified-annotation-experimental-1.1.0-2 C:\Users\UBAID ULLAH\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.front_end_dev_test_ubaidullah.app-jetified-window-1.0.0-beta04-3 C:\Users\UBAID ULLAH\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.front_end_dev_test_ubaidullah.app-main-4 E:\frontend_dev_test\front_end_dev_test_ubaidullah\android\app\src\main\res
+com.example.front_end_dev_test_ubaidullah.app-release-5 E:\frontend_dev_test\front_end_dev_test_ubaidullah\android\app\src\release\res
+com.example.front_end_dev_test_ubaidullah.app-pngs-6 E:\frontend_dev_test\front_end_dev_test_ubaidullah\build\app\generated\res\pngs\release
+com.example.front_end_dev_test_ubaidullah.app-resValues-7 E:\frontend_dev_test\front_end_dev_test_ubaidullah\build\app\generated\res\resValues\release
+com.example.front_end_dev_test_ubaidullah.app-rs-8 E:\frontend_dev_test\front_end_dev_test_ubaidullah\build\app\generated\res\rs\release
+com.example.front_end_dev_test_ubaidullah.app-mergeReleaseResources-9 E:\frontend_dev_test\front_end_dev_test_ubaidullah\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.front_end_dev_test_ubaidullah.app-mergeReleaseResources-10 E:\frontend_dev_test\front_end_dev_test_ubaidullah\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.front_end_dev_test_ubaidullah.app-merged_res-11 E:\frontend_dev_test\front_end_dev_test_ubaidullah\build\app\intermediates\merged_res\release
+com.example.front_end_dev_test_ubaidullah.app-packaged_res-12 E:\frontend_dev_test\front_end_dev_test_ubaidullah\build\fluttertoast\intermediates\packaged_res\release
+com.example.front_end_dev_test_ubaidullah.app-packaged_res-13 E:\frontend_dev_test\front_end_dev_test_ubaidullah\build\shared_preferences_android\intermediates\packaged_res\release

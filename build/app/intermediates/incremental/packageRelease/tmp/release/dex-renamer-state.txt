@@ -1,0 +1,4 @@
+#Wed Apr 12 12:41:41 PKT 2023
+base.0=E\:\\frontend_dev_test\\front_end_dev_test_ubaidullah\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
